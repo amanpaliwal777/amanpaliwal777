@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Aman Paliwal
+- 👀 I’m interested in Python, Django...
+- 🌱 I’m currently learning Rest Api...
+- 📫 Reach me amanpaliwal777@gmail.com ...
+
+<!---
+amanpaliwal777/amanpaliwal777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
